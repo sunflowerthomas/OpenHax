@@ -55,13 +55,13 @@
     },
     {
         "Key": "Door.Featured.Query",
-        "Value": "#featured",
+        "Value": "#rro",
         "StartTime": null,
         "EndTime": null
     },
     {
         "Key": "Door.Featured.Title",
-        "Value": "Featured",
+        "Value": "Rec Room originals",
         "StartTime": null,
         "EndTime": null
     },
