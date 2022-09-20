@@ -32,7 +32,7 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "roblox",
+						EN_US = "vrchat",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
@@ -82,8 +82,8 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "recroom2016",
-						Difficulty = 0
+						EN_US = "sunflowerthomas",
+						Difficulty = 10
 					},
 					new Activities.Charades.word
 					{
@@ -157,7 +157,7 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "ninetndo switch",
+						EN_US = "nintendo switch",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
