@@ -21,7 +21,7 @@ namespace start
 			Directory.CreateDirectory("SaveData\\Rooms\\Downloaded\\");
 			if (!(File.Exists("SaveData\\App\\firsttime.txt")))
 			{
-				File.WriteAllText("SaveData\\App\\firsttime.txt", "this text file has no use other than to tell the program whether to bring up the intro or not, so i can just write random shit here. among us balls, you suck mad dick you big fat fa----");
+				File.WriteAllText("SaveData\\App\\firsttime.txt", "false");
 				firsttime = true;
 			}
 			if (!(File.Exists("SaveData\\avatar.txt")))
@@ -103,7 +103,7 @@ namespace start
             {
 				try
 				{
-					api.CustomRooms.RoomGet("gogo9");
+					api.CustomRooms.RoomGet("AreYouBadAtCucits");
 				}
 				catch
 				{
